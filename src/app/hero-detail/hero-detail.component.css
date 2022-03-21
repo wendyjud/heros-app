@@ -1,0 +1,18 @@
+button{
+    background-color: #6E85B2;
+    margin-inline: 15px;
+    border-radius: 10px;
+}
+.container{
+    background-color: rgb(173, 186, 206);
+}
+
+h2{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+}
+p{
+    font-family:'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: medium;
+}
