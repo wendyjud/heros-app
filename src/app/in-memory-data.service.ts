@@ -8,16 +8,16 @@ import { Hero } from './hero';
 export class InMemoryDataService implements InMemoryDbService {
   createDb() {
     const heroes = [
-      { id: 50, name: 'Dr wendy', puntos: 4 },
-      { id: 12, name: 'Narco',puntos:8},
-      { id: 13, name: 'Bombasto',puntos: 15 },
-      { id: 14, name: 'Celeritas',puntos: 6 },
-      { id: 35, name: 'Magneta',puntos: 10 },
-      { id: 16, name: 'RubberMan',puntos: 3 },
-      { id: 17, name: 'Dynama',puntos: 12 },
-      { id: 18, name: 'Dr IQ',puntos: 11 },
-      { id: 19, name: 'Magma',puntos: 50 },
-      { id: 20, name: 'Tornado',puntos: 41 }
+      { id: 1, name: 'Spiderman', puntos: 90 },
+      { id: 2, name: 'Ironman',puntos:95},
+      { id: 3, name: 'Capitán América',puntos: 93 },
+      { id: 4, name: 'Thor',puntos: 60 },
+      { id: 5, name: 'Viuda Negra',puntos: 50 },
+      { id: 6, name: 'Hulk',puntos: 80 },
+      { id: 7, name: 'Doctor Strange',puntos: 50 },
+      { id: 8, name: 'Tormenta',puntos: 30 },
+      { id: 9, name: 'Jean Grey',puntos: 45 },
+      { id: 10, name: 'Gata Negra',puntos: 35 }
     ];
     return {heroes};
   }

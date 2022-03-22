@@ -28,3 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# angular-tour-de-heroes-" 
 "# angular-heroes-tour" 
 "# angular-heroes-tour" 
+"# angular-heroes-tour" 
